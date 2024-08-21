@@ -28,7 +28,7 @@ export default {
                 </div>
 
                 <img src="../../public/foto_elon.jpg" alt="" />
-                <p>{{ run }}</p>
+                <p>{{ rut }}</p>
             </aside>
 
             <main>
